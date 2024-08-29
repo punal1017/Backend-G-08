@@ -19,9 +19,17 @@ const data = [
         age: 4,
         section: "b"
     },
+ 
     {
-        name: "Neha",
-        age: 5,
-        section: "a"
+        name: "sunaina",
+        age: 88,
+        section: "ka"
+    },
+ 
+    {
+        name: "sundari",
+        age: 66,
+        section: "khha"
     }
+
 ];
