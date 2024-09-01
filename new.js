@@ -30,6 +30,13 @@ const data = [
         name: "sundari",
         age: 66,
         section: "khha"
+    },
+    {
+        name: "samar",
+        age: 46,
+        section: "hg"
     }
+
+
 
 ];
